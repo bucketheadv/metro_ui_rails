@@ -1,0 +1,10 @@
+Description:
+    Explain the generator
+
+Example:
+    rails generate metro:install 
+
+    This will create:
+        public/css/*.css
+        public/js/*.js
+        public/fonts/*
